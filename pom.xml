@@ -28,6 +28,7 @@
 
     <!-- 4. Свойства проекта -->
     <properties>
+        <jackson.version>2.15.2</jackson.version>
         <!-- версия компилятора -->
         <maven.compiler.source>20</maven.compiler.source>
         <maven.compiler.target>20</maven.compiler.target>
